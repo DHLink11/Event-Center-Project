@@ -10,6 +10,7 @@ Open the index.html file in your web browser.
 Usage:
 
 Open the index.html file in your web browser.
+Navigate through the various webpages.
 
 Authors:
 
